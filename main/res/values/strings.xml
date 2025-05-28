@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <style name="myFont">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
